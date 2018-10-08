@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
+  "name": "Club Ayoloco",
+  "short_name": "Club Ayoloco",
   "version": "com.phonegap.helloworld",
-  "description": "Hello World sample application that responds to the deviceready event.",
-  "author": "PhoneGap Team",
+  "description": "Aventurate en las montañas más altas de México.",
+  "author": "Agencia ItedUp",
   "icons": [],
   "start_url": "index.html"
 }
